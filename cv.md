@@ -38,5 +38,5 @@ Belarusian State University (Mathematician, IT specialist)
 **********************
 ## English
 **********************
-A2 
+A2  
 
