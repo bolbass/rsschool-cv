@@ -34,7 +34,7 @@ alert( result );
 **********************
 ## Education
 **********************
-Belarusian State University (Mathematician, IT specialist)
+Belarusian State University,Mechanics and Mathematics faculty (Mathematician, IT specialist)
 **********************
 ## English
 **********************
