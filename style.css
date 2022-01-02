@@ -1,0 +1,165 @@
+.central {
+	width: 1024px;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+	font-size: 20px;
+	line-height: 1.2;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	color: #1d3333;
+}
+img {
+	padding-right: 5px;
+}
+.columns {
+	display: flex;
+	justify-content: space-between;
+}
+.nav-list {
+	list-style: none;
+	color: #1d3333;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #afd3df;
+	margin-right: 20px;
+	margin-left: 10px;
+}
+a {
+	outline: none;
+	text-decoration: none;
+}
+
+a:link {
+	color: #1d3333;
+}
+
+a:visited {
+	color: #2f5252;
+}
+
+a:focus {
+	background: #c4ecfa;
+}
+
+a:hover {
+	background: #c4ecfa;
+}
+
+a:active {
+	background: #5a7e83a4;
+	color: #c4ecfa;
+}
+.left {
+	width: 40%;
+	/*background-color: #b0e0e6;*/
+}
+.header {
+	color: #1d3333;
+	text-align: center;
+	margin: 20px 20px 20px 20px;
+}
+.contacts {
+	color: #1d3333;
+	background-color: #afd3df;
+	margin: 10px 20px 20px 10px;
+	height: 250px;
+	padding: auto;
+}
+
+.contacts ul {
+	list-style: none;
+	font-size: 17px;
+}
+.experience {
+	color: #1d3333;
+	background-color: #9bcedf;
+	margin: 10px 20px 20px 10px;
+	height: 250px;
+	padding: auto;
+}
+.contacts p,
+.experience p {
+	text-align: center;
+	font-weight: bold;
+	background-color: #5a7e83a4;
+}
+
+.experience ul,
+.projects ul {
+	list-style-image: url(assets/img/list.png);
+	list-style-position: outside;
+	margin-right: 10px;
+}
+.projects {
+	color: #1d3333;
+	background-color: #9bcedf;
+	margin: 10px 20px 20px 10px;
+	height: 100px;
+	padding: auto;
+}
+.right {
+	width: 60%;
+}
+
+.summary {
+	margin: 20px 20px 20px 20px;
+	text-align: left;
+	background-color: #afd3df;
+}
+.stext {
+	margin: 5px 20 px 20 px 20px;
+	text-align: left;
+	padding: 0px 20px 20px 20px;
+}
+h2 {
+	background-color: #5a7e83a4;
+	text-align: center;
+	font-weight: bold;
+	height: 40px;
+	margin: 1 0 px;
+}
+img {
+	vertical-align: middle;
+}
+.education {
+	margin: 20px;
+	text-align: left;
+	background-color: #afd3df;
+}
+.education p {
+	text-align: left;
+	padding: 0px 20px 20px 20px;
+}
+
+.languages ul {
+	list-style-image: url(assets/img/list.png);
+	list-style-position: outside;
+	margin: 20px;
+	padding-bottom: 20px;
+}
+.languages {
+	margin: 20px;
+	background-color: #afd3df;
+}
+.code {
+	margin: 10px;
+	background-color: #afd3df;
+	padding-bottom: 1px;
+}
+.tcode {
+	margin: 40px;
+	background-color: #c5c5c5;
+}
+.footer {
+	display: flex;
+	justify-content: space-between;
+	background-color: #afd3df;
+	margin: 10px;
+}
+.footer div {
+	margin: 10px;
+}
+.date {
+	padding-top: 5px;
+}
